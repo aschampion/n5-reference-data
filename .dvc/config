@@ -1,0 +1,4 @@
+['remote "gs"']
+url = gs://n5-reference
+[core]
+remote = gs
